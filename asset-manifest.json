@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cyborgs-rolodex/static/css/main.f56515aa.chunk.css",
+    "main.js": "/cyborgs-rolodex/static/js/main.b2fb49fe.chunk.js",
+    "main.js.map": "/cyborgs-rolodex/static/js/main.b2fb49fe.chunk.js.map",
+    "runtime-main.js": "/cyborgs-rolodex/static/js/runtime-main.68f92417.js",
+    "runtime-main.js.map": "/cyborgs-rolodex/static/js/runtime-main.68f92417.js.map",
+    "static/js/2.8e2331d1.chunk.js": "/cyborgs-rolodex/static/js/2.8e2331d1.chunk.js",
+    "static/js/2.8e2331d1.chunk.js.map": "/cyborgs-rolodex/static/js/2.8e2331d1.chunk.js.map",
+    "index.html": "/cyborgs-rolodex/index.html",
+    "precache-manifest.c016ce02a1f1b23a3b61f6c96d11ca41.js": "/cyborgs-rolodex/precache-manifest.c016ce02a1f1b23a3b61f6c96d11ca41.js",
+    "service-worker.js": "/cyborgs-rolodex/service-worker.js",
+    "static/css/main.f56515aa.chunk.css.map": "/cyborgs-rolodex/static/css/main.f56515aa.chunk.css.map",
+    "static/js/2.8e2331d1.chunk.js.LICENSE.txt": "/cyborgs-rolodex/static/js/2.8e2331d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68f92417.js",
+    "static/js/2.8e2331d1.chunk.js",
+    "static/css/main.f56515aa.chunk.css",
+    "static/js/main.b2fb49fe.chunk.js"
+  ]
+}
